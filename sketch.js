@@ -15,7 +15,7 @@ function setup() {
 
   car.shapColor = color(255);
 
-  wall = createSprite(1000,200,60,height/2);
+  wall = createSprite(100,200,60,height/2);
   wall.shapColor = (80,80,80);
 }
 
